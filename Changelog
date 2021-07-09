@@ -1,0 +1,7 @@
+# Changelog
+
+## 20201019.0
+
+* use ruby 2.7
+* build on latest base image
+* copied from mi-qutic-ruby26
