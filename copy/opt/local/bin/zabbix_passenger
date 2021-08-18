@@ -6,6 +6,9 @@ sleep $((RANDOM % 30))
 
 ZABBIX_CONF=/opt/local/etc/zabbix_agentd.conf
 
+export TMPDIR=/var/tmp
+export PASSENGER_INSTANCE_REGISTRY_DIR=/var/tmp
+
 function zsend {
   /opt/local/bin/zabbix_sender -c $ZABBIX_CONF -k $1 -o $2
 }
