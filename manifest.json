@@ -1,6 +1,6 @@
 {
   "name":         "qutic-ruby27",
-  "version":      "20201019.0",
+  "version":      "20201019.1",
   "description":  "qutic ruby 2.7 image",
   "organization": "qutic development",
   "brand":        "Ruby 2.7 Instance",

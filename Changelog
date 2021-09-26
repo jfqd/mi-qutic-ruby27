@@ -1,5 +1,9 @@
 # Changelog
 
+## 20201019.1
+
+* remove redis and memcached
+
 ## 20201019.0
 
 * use ruby 2.7
