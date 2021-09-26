@@ -13,8 +13,6 @@ ghostscript-fonts
 ImageMagick
 ffmpeg4
 git-base
-memcached
-redis
 libxslt
 rsync
 shared-mime-info
