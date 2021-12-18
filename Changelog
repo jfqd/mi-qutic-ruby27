@@ -1,5 +1,10 @@
 # Changelog
 
+## 20201019.3
+
+* use latest base image
+* switch from beaver to beats
+
 ## 20201019.2
 
 * use latest base image
