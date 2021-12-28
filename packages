@@ -1,7 +1,6 @@
 gcc7
 gmake
 apache
-percona-client
 nodejs
 npm
 xinit
@@ -18,6 +17,7 @@ rsync
 shared-mime-info
 ruby27
 ruby27-passenger
+ruby27-mysql2
 ap24-ruby27-passenger
 ap24-usdt
 jemalloc
