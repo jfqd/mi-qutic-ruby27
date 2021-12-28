@@ -70,7 +70,7 @@ cd /home/ruby/www/shared
 mv /opt/local/var/tmp/activate /home/ruby/www/shared/gems/bin/activate
 mv /opt/local/var/tmp/ruby /home/ruby/www/shared/gems/bin/ruby
 chmod +x /home/ruby/www/shared/gems/bin/ruby
-chown -R ruby:ruby /home/ruby/www
+chown -R ruby:ruby /home/ruby
 
 # Configuring image specific packages
 echo "* Configuring image specific packages.";
