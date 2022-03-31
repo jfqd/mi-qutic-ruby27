@@ -1,5 +1,15 @@
 # Changelog
 
+## 20201019.4
+
+* update ipf-conf for zabbix
+* chmod ssh-config dir
+* mysql gem with the right mysql client
+* update to gcc9
+* migrate away from munin plugins
+* use latest base image
+* exec bundle exec
+
 ## 20201019.3
 
 * use latest base image
