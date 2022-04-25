@@ -1,4 +1,4 @@
-gcc9
+gcc10
 gmake
 apache
 nodejs
