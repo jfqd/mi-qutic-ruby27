@@ -1,5 +1,10 @@
 # Changelog
 
+## 20220708.0
+
+* use latest base image 20220708
+* update to gcc10
+
 ## 20201019.4
 
 * update ipf-conf for zabbix
