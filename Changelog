@@ -1,5 +1,10 @@
 # Changelog
 
+## 20220708.1
+
+* use latest base image
+* add command to bash-history
+
 ## 20220708.0
 
 * use latest base image 20220708
