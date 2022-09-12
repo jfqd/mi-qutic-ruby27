@@ -63,6 +63,11 @@ echo "* Add squoosh with cli";
 npm i -g squoosh
 npm i -g @squoosh/cli
 
+echo "* Add commands to bash-history";
+cat >> /root/.bash_history << EOF
+/lib/svc/bin/svc.configd 
+EOF
+
 # Clean up
 echo "* Cleaning up."
 #pkgin -y remove gmake
