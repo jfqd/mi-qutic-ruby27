@@ -17,7 +17,7 @@ rsync
 shared-mime-info
 ruby27
 ruby27-passenger
-ruby27-mysql2
+ruby27-mysql28
 ap24-ruby27-passenger
 ap24-usdt
-jemalloc
+#jemalloc
