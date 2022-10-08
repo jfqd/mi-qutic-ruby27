@@ -1,16 +1,20 @@
 # Changelog
 
-## 20220708.1
+## 20220708.2 - 2022-10-ß9
+
+* update ffmpeg to v5
+
+## 20220708.1 - 2022-09-12
 
 * use latest base image
 * add command to bash-history
 
-## 20220708.0
+## 20220708.0 - 2022-07-16
 
 * use latest base image 20220708
 * update to gcc10
 
-## 20201019.4
+## 20201019.4 - 2022-05-31
 
 * update ipf-conf for zabbix
 * chmod ssh-config dir
@@ -20,20 +24,20 @@
 * use latest base image
 * exec bundle exec
 
-## 20201019.3
+## 20201019.3 - 2021-12-28
 
 * use latest base image
 * switch from beaver to beats
 
-## 20201019.2
+## 20201019.2 - 2021-12-04
 
 * use latest base image
 
-## 20201019.1
+## 20201019.1 - 2021-09-26
 
 * remove redis and memcached
 
-## 20201019.0
+## 20201019.0 - 2021-07-09
 
 * use ruby 2.7
 * build on latest base image
